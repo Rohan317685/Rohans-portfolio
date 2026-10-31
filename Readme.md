@@ -9,4 +9,4 @@ I made it because I want to show who I am and the projects/skills I've learnt ov
 
 I do understand currently it's quite simple however in the future I plan to spend a lot more time working on the blogs page :p 
 
-PR's are welcome and appreciated :D
+Contribution's are welcome and appreciated :D
